@@ -25,10 +25,12 @@ This is a video classification and Metadata Generation Model training,evaluating
 
 ## Setup Project
 
-### \* To Test the Project
+### To Test the Project
 
 > - Download the Project from `https://github.com/rohittiwari-dev/video-classification-metadata-generation`
-> - Upload to Google Drive
+> - Download `Model.sav` from [Model](https://drive.google.com/file/d/14r7zDdK8K1n8NMWoIqogBhadoSmFVUul/view?usp=drive_link)
+> - Copy `Model.sav` to dir `/Model`
+> - Upload the Complete Project to Google Drive
 > - Open `predict.ipynb` it will open in 'Google Colab'
 > - Run All NoteBook Fields
 
